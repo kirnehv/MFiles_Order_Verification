@@ -1,0 +1,11 @@
+# Dependency directories
+node_modules/
+
+# Logs
+*.log
+
+# Lock files
+yarn.lock
+
+# Config File
+config.json

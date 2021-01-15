@@ -1,0 +1,7 @@
+version: '3.8'
+services:
+  app:
+    container_name: mFiles_Order_Verification
+    build: .
+    environment:
+      TZ: "America/Los_Angeles"

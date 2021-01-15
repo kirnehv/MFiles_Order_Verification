@@ -1,0 +1,14 @@
+{
+  "EZCP_USER": "",
+  "EZCP_PASS": "",
+  "EZCP_DB": "",
+  "GSMHP_DOMAIN": "",
+
+  "LOG_PATH": "",
+
+  "MAIL_HOST": "",
+  "MAIL_PORT": 25,
+
+  "MF_API_URL": "",
+  "MF_AUTH": ""
+}
